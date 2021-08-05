@@ -1,7 +1,6 @@
 # PyBer_Analysis
 # Overview of the Analysis
-Using pandas and python to visualize summary of the ride-sharing data frame by city type and finally create a graph showing weekly fares for te
-he city type
+Using pandas and python to visualize summary of the ride-sharing data frame by city type and finally create a graph showing weekly fares for the city type
 
 # Results:
 While comparing the rude sharing data for different cities we can observe that the total rides are higher in the urban area as the total drivers are more in the urban area as well and hence the total fares are also on the highest side for the urban drivers and the lowest is for rural area. Also, the average fare per ride is highest for the rural areas the average fare per driver is also on the highest side for the rural areas
