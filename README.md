@@ -3,6 +3,8 @@
 
 Relevant File :  PyBer_ride_data.ipynb
 
+                PyBer_ride_data.csv
+
 
 Using pandas and python to visualize summary of the ride-sharing data frame by city type and finally create a graph showing weekly fares for the city type
 
